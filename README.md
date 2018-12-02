@@ -6,7 +6,9 @@ Usage:
 
 2) command line:
 
+```
 python3 nanogen_rchrdlln_gh.py > [yourrawoutput].txt
 python3 nanogen_rchrdlln_gh.py [yourrawoutput].txt > [yournoveloutput].txt
+```
 
 3) import as ASCII into Microsoft Word and put your crazy mess in a nice font
